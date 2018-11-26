@@ -1,0 +1,1 @@
+# color-slider-for-KDE
